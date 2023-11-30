@@ -1,0 +1,3 @@
+[deps]
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+Polymake = "d720cf60-89b5-51f5-aff5-213f193123e7"
